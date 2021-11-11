@@ -1,0 +1,3 @@
+# -Just-breathe-...
+https://awesome-jang-83af47.netlify.app
+“Just breathe”...these are words we have probably told ourselves or others a million times. Taking the time to take a few deep breaths actually makes us feel more centered and calm. Deep breaths and concentrating on breathing sends oxygen to the brain which soothes the amygdala and signals your nervous system to calm down. 
