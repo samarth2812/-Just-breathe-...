@@ -1,0 +1,30 @@
+h1{
+    font-size: 30px;
+    color: black;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+p{
+    font-size: 14px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.container{
+    height: 200px;
+    width: 200px;
+}
+.gradient-circle{
+    height: 220px;
+      width: 220px;
+}
+.pointer-container{
+    top: -33px;
+    left: 90px;
+    width: 22px;
+    height: 134px;
+}
